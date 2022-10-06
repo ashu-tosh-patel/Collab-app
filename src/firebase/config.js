@@ -1,6 +1,6 @@
 import firebase from "firebase/app"
 import 'firebase/firestore'
-import 'firebase/auth/authmanager'
+import 'firebase/auth'
 
 const firebaseConfig = {
     apiKey: "AIzaSyAeZu7wKyvMv15bo_MR7XSeEPGxdVs3FCs",
@@ -12,7 +12,7 @@ const firebaseConfig = {
 }
 
 //init firebase
-firebase.initialize(firebaseConfig)
+firebase.initializeApp(firebaseConfig)
 
 
 //init services
