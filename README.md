@@ -1,14 +1,10 @@
-# Project_Progress_Tracker
-
-- This is a project's progress management apps.
-- You can enter the progress of the task.
-- Then, achievement rate of project will be calculated automatically.
+# Screenshots
 
 <p>
-  <img src="https://lh3.googleusercontent.com/-vpApurf1Sic/X3gkEzP4_9I/AAAAAAAAAuo/B1TI6EeEkxIlAiMS-fPj7Uhn6W93WcJ6ACLcBGAsYHQ/WhatsApp%2BImage%2B2020-10-03%2Bat%2B12.40.13%2BPM%2B%25283%2529.jpeg" />
-  <img src="https://lh3.googleusercontent.com/-7iCwFiFNw8w/X3glDxNic4I/AAAAAAAAAvI/l0wFyLBWn_EfsNjCTyWYt5VarHEHfQpVgCLcBGAsYHQ/WhatsApp%2BImage%2B2020-10-03%2Bat%2B12.44.24%2BPM.jpeg"/> 
-  <img src="https://lh3.googleusercontent.com/-JH7FLr4W-wI/X3gkHpGDJjI/AAAAAAAAAu0/zq1VfZGEcnwhAcDZ3sAsZ5I7O9k61ayDQCLcBGAsYHQ/WhatsApp%2BImage%2B2020-10-03%2Bat%2B12.40.13%2BPM.jpeg"/>
-  <img src="https://lh3.googleusercontent.com/-4shNOA4i_5E/X3gkG755U1I/AAAAAAAAAuw/HcxMjfmfGfI6jjC-2nHEXJNxcpAIYAZPQCLcBGAsYHQ/WhatsApp%2BImage%2B2020-10-03%2Bat%2B12.40.13%2BPM%2B%25281%2529.jpeg" />
+  <img src="https://drive.google.com/file/d/1lF4Wi67n8zz5rM92YPuIb5DG9XL8f2Dx/view" />
+  <img src="https://lh3.googleusercontent.com/-7iCwFiFNw8w/X3glDxNic4I/AAAAAAAAAvI/l0wFyLBWn_EfsNjCTyWYt5VarHEHfQpVgCLcBGAsYHQ/WhatsApp%2BImage%2B2020-10-03%2Bat%2B12.44.24%2BPM.jpeg" width="180" height="330" /> 
+  <img src="https://lh3.googleusercontent.com/-JH7FLr4W-wI/X3gkHpGDJjI/AAAAAAAAAu0/zq1VfZGEcnwhAcDZ3sAsZ5I7O9k61ayDQCLcBGAsYHQ/WhatsApp%2BImage%2B2020-10-03%2Bat%2B12.40.13%2BPM.jpeg" width="180" height="330" />
+  <img src="https://lh3.googleusercontent.com/-4shNOA4i_5E/X3gkG755U1I/AAAAAAAAAuw/HcxMjfmfGfI6jjC-2nHEXJNxcpAIYAZPQCLcBGAsYHQ/WhatsApp%2BImage%2B2020-10-03%2Bat%2B12.40.13%2BPM%2B%25281%2529.jpeg" width="180" height="330" />
 </p>
 
 ### Constitution
