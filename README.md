@@ -14,16 +14,16 @@ https://thecollabsite.web.app/
 # Screenshots
 - Following are the few snapshots from different activities of our App
 
+### The Dashboard
+<img src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj8eoVw7l7p9s6N0F4RoNgGgwa_WnKGYLvb16-jt3DEhrcKVh3dY6D5l0q2guMPLP8b6wC3pTL02ehmAqkr4x3pOxUQ68sY-DEg_mhzO1Rn6WSLV5YmTZyiuG3sFjY6o4_E8xmIR3GXZbNt8_oQTKqhINRLDZiDBtBd2qvWcPRj8N-j6W8SlL7utx3c/s1384/Screenshot%202022-12-01%20at%205.45.20%20PM.png" width="580" height="330"/>
+
+The MainPage of our WebApp where you get all the options of navigation bar,active users and all the active project..You can sort them according to all ,mine ,development,design,marketing,sales all different filter options provided.Or just click on any of the project to get in details of that project.
+
 ### Login Page
   <img src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgkvJRX3d2IV7C4FUAIwDToV4cuk3ofbW7NPxiMBJa8Pguz7rHzhzXEhyopmWIOB7Xd9lhWpnNwHMY1cO174fdbwil_exrfpsGM4NSS2OIr-Fr2WgAtrmgO4CSeYmXPRkrVNo4ypCnx0I3Mv5BdZkHcRwlkgq_z0pO2TOhXUXtuh9pkaWP-iesVmkVz/s847/Picture%201.png" width="580" height="330" /> 
 
 ### SignUp Page
   <img src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhJX0bkvhNnhTRtVQf3p7RL0iF6wUnlOB1cC2fTB_ehxuKqI5SzkSWMq3_KlAUhfIxmjRHgHlVJuFHuYXH-ra6NTHoXnheuqboXu6ZJywaTTg1KwWp1jDRFQs3HY5KlSeUlSMVqwG-l9mDntuI1o05TRHALAfdmNMavScFo4KhgHz1w9UUW-dQgKBxK/s870/Picture%20.png" width="580" height="330"/>
-
-### The Dashboard
-<img src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj8eoVw7l7p9s6N0F4RoNgGgwa_WnKGYLvb16-jt3DEhrcKVh3dY6D5l0q2guMPLP8b6wC3pTL02ehmAqkr4x3pOxUQ68sY-DEg_mhzO1Rn6WSLV5YmTZyiuG3sFjY6o4_E8xmIR3GXZbNt8_oQTKqhINRLDZiDBtBd2qvWcPRj8N-j6W8SlL7utx3c/s1384/Screenshot%202022-12-01%20at%205.45.20%20PM.png" width="580" height="330"/>
-
-The MainPage of our WebApp where you get all the options of navigation bar,active users and all the active project..You can sort them according to all ,mine ,development,design,marketing,sales all different filter options provided.Or just click on any of the project to get in details of that project.
 
 ### Active Users
   <img src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEg542Q-f24pNaubxN8wSZ5Y02yXPxRxin3STUqtS_5qdD_5iDskYDQ8slcuOQMEuFkX6RLfC-lagHG9CHwl6zTnlkgx-ZL81bj2kA_90RC_CRR2l17eXa-Sf37I6dKGjGp5GND4xcm5i5Hn6Gf-betGT7LzWdw-EIFmJx_6NkH3JS6of_rx4ZRPkwFF/s916/Picture2.png" width="280" height="330"/>
